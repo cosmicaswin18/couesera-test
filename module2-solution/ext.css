@@ -51,8 +51,13 @@ section{
 	.s1, .s2, .s3{
 		margin-right: 10px;
 		margin-left: 20px;
+<<<<<<< HEAD
 		margin-bottom: 20px;
 		margin-top: 20px;
+=======
+		margin-top: 20px;
+		margin-bottom: 20px;
+>>>>>>> 3597eea1ee5ce6e0b95658e748584cd7d71b4312
 	}
 
 	.d1, .d2, .d3{
@@ -65,6 +70,10 @@ section{
 	.s1, .s2{
 		margin-right: 10px;
 		margin-left: 20px;
+<<<<<<< HEAD
+=======
+		margin-top: 20px;
+>>>>>>> 3597eea1ee5ce6e0b95658e748584cd7d71b4312
 		margin-bottom: 20px;
 		
 	}
